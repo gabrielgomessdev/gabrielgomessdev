@@ -20,7 +20,7 @@ Curioso por natureza, estou sempre fuçando novidades do universo dev e tentando
 ### O que eu curto de verdade
 
 - Tirar do papel e transformar em código
-- Trabalhar em equipe, compartilhar conhecimento e aprender coisa nova todo dia
+- Compartilhar conhecimento e aprender coisa nova todo dia
 - Automatizar tudo que der pra automatizar
 - Jogar ETS2 pra relaxar depois do expediente 🎮
 
